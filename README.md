@@ -1,0 +1,2 @@
+# EShop
+Modular Monolithic Architecture
